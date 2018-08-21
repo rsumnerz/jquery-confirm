@@ -5,6 +5,8 @@ v3.3.2
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/bonifacepereira)
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/bonifacepereira)
+
 A multipurpose plugin for alert, confirm & dialog, with Super powers.
 
 * Listen keyboard keys 
